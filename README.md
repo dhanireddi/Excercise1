@@ -1,3 +1,3 @@
 # Excercise1
 
-This is new excercose for github
+This is new excercise for github
